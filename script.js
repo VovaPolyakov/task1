@@ -1,3 +1,5 @@
+let name = document.querySelector(".i-1").value;
+
 const http = require('http');
 
 const server = http.createServer();
